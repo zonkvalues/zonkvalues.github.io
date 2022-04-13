@@ -1,2 +1,2 @@
-# 8values.github.io
-The 8values Political Quiz measures individuals' political values, including Equality, Nation, Liberty, Tradition, Markets, World, Authority, and Progress.
+# zonkvalues.github.io
+ZonkValues is a quiz aimed at the members of the Pseud Central community attempting to diagnose whatever the fuck is wrong with you guys.
